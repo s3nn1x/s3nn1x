@@ -13,9 +13,9 @@
 ---
 
 ### 📊 GitHub статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical&title_color=FF8800&icon_color=FF8800&text_color=ffffff&bg_color=1a1a1a)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=s3nn1x&show_icons=true&theme=radical&title_color=FF8800&icon_color=FF8800&text_color=ffffff&bg_color=1a1a1a)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical&title_color=FF8800&text_color=ffffff&bg_color=1a1a1a)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3nn1x&layout=compact&theme=radical&title_color=FF8800&text_color=ffffff&bg_color=1a1a1a)
 
 ![Fox badge](https://img.shields.io/badge/Fox-Lover-FF8800?style=for-the-badge&logo=firefox&logoColor=white)
 
